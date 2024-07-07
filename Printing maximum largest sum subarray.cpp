@@ -28,6 +28,7 @@ for(int i=0;i<n;i++){
 	   sum = 0;
    }
 }
+cout<<maxi<<endl;	
 for(int i =start ; i<=end;i++){
 	cout<<arr[i] << " ";
 }cout<<endl;
